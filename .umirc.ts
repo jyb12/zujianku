@@ -11,6 +11,8 @@ export default defineConfig({
   // 打包发布上线的 文件包名字
   outputPath: 'docs-dist',
   // 配置导航条模式 // 默认纵向，
+  base: './',
+  publicPath: './',
   mode: 'site',
   apiParser: {
     // 自定义属性过滤配置，也可以是一个函数，用法参考：https://github.com/styleguidist/react-docgen-typescript/#propfilter
