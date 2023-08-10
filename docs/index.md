@@ -1,6 +1,6 @@
 ---
 hero:
-  title: React Element
+  title: Reacts-Element-Ui
   desc: 一套轻量级的React UI 组件库
   actions:
     - text: Getting Started
